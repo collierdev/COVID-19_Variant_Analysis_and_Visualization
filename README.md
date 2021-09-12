@@ -1,6 +1,6 @@
 # COVID-19 Variant Analysis and Visualization
 
-In this project variant analysis was performed on two Covid-19 infected samples.
+In this project variant analysis was performed on Covid-19 infected sample ERR5707121.
 
 ## Available Scripts ('VACC_Analysis/Scripts)
 
